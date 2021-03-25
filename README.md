@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Hello fucking world</title>
+	<title>Helloworld</title>
 </head>
 <body>
 	<h1>Course</h1>
